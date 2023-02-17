@@ -10,6 +10,8 @@ Con -p y -m uno puede establecer el puerto y modo:
 
     -node server -m CLUSTER (se inicia el server en modo cluster)
 
-Rutas desafio log:
+Comandos desafio:
 
-    info con compresion "/infozip", sin compresion "/info"
+    npm start (para 0x server.js)
+    
+    npm test (para node benchmark.js)
