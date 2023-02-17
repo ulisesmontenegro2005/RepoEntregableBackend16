@@ -1,0 +1,16 @@
+[2023-02-17T11:15:59.202] [INFO] prod - Ruta /login metodo GET
+[2023-02-17T11:15:59.266] [WARN] prod - Ruta GET /favicon.ico no esta implementada
+[2023-02-17T11:16:00.426] [WARN] prod - Ruta GET /asdasd no esta implementada
+[2023-02-17T11:16:01.990] [INFO] prod - Ruta /login metodo GET
+[2023-02-17T11:16:02.037] [WARN] prod - Ruta GET /favicon.ico no esta implementada
+[2023-02-17T11:16:03.163] [INFO] prod - Ruta /datos metodo GET
+[2023-02-17T11:16:03.212] [INFO] prod - Ruta /get-data metodo GET
+[2023-02-17T11:16:47.275] [INFO] prod - Ruta /login metodo GET
+[2023-02-17T11:16:47.336] [WARN] prod - Ruta GET /favicon.ico no esta implementada
+[2023-02-17T11:16:47.336] [ERROR] prod - Ruta GET /favicon.ico no esta implementada
+[2023-02-17T11:16:48.354] [INFO] prod - Ruta /datos metodo GET
+[2023-02-17T11:16:48.409] [INFO] prod - Ruta /get-data metodo GET
+[2023-02-17T11:16:51.153] [WARN] prod - Ruta GET /asdasd no esta implementada
+[2023-02-17T11:16:51.153] [ERROR] prod - Ruta GET /asdasd no esta implementada
+[2023-02-17T11:16:52.637] [INFO] prod - Ruta /datos metodo GET
+[2023-02-17T11:16:52.699] [INFO] prod - Ruta /get-data metodo GET
